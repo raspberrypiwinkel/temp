@@ -1,0 +1,9 @@
+temperature.log
+.DS_Store
+*.esproj
+*.espressostorage
+
+# Eclipse 
+.build*
+.settings
+.project
